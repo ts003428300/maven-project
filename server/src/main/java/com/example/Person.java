@@ -13,7 +13,7 @@ public class Person {
   }
 
   /**
-    * @param somerone: people name
+    * @param someone people name
     * @return string
     */
   public final String person(final String someone) {
